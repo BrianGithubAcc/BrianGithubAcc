@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](test.png)
+<img src="test.png" style="max-width: 100%; height: auto;" />
 <!--
 **BrianGithubAcc/BrianGithubAcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
