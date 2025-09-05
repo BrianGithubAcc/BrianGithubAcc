@@ -6,8 +6,6 @@
 
 <p align="center">
   🌱 Currently a student<br>
-  💻 Enjoy making Neovim configs<br>
-  ⚙️ Interested in Machine Learning and Web-development
 </p>
 
 <hr>
