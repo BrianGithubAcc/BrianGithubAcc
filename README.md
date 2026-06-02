@@ -1,18 +1,9 @@
-<picture>
+<svg width="120" height="20" viewBox="0 0 120 20">
 
-  <!-- STATE 1 -->
-  <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: no-preference)"
-          srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext x='0' y='20'%3E1%3C/text%3E%3C/svg%3E">
+  <text x="0"   y="15">1</text>
+  <text x="20"  y="15">2</text>
+  <text x="40"  y="15">3</text>
+  <text x="60"  y="15">4</text>
+  <text x="80"  y="15">5</text>
 
-  <!-- STATE 2 -->
-  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: no-preference)"
-          srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext x='0' y='20'%3E2%3C/text%3E%3C/svg%3E">
-
-  <!-- STATE 3 -->
-  <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: reduce)"
-          srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext x='0' y='20'%3E3%3C/text%3E%3C/svg%3E">
-
-  <!-- STATE 4 -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext x='0' y='20'%3E4%3C/text%3E%3C/svg%3E">
-
-</picture>
+</svg>
